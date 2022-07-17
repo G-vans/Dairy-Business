@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
+
 <body>
     <nav>
         <div class="logo">
@@ -16,7 +20,7 @@
         <div class="nav-list">
             <ul>
                 <li></li>
-        
+
             </ul>
         </div>
 
@@ -31,13 +35,38 @@
 
     <!--Side nav-->
     <div class="sidenav">
-        <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Clients</a>
+        <a href="#">Home</a>
+        <a href="#">Daily Production</a>
+        <a href="#">Sales</a>
         <a href="#">Contact</a>
-      </div>
-      
+    </div>
 
+    <!--Dashboard area-->
+<br>
+<br>
+    <div class="dashboard-area">
+
+    <h2>Daily Production Report</h2>
+<br>
+<br>
+    <table>
+        <tr>
+            <th>Shed</th>
+            <th>Number of Cows</th>
+            <th>Status</th>
+            <th>Milk Production</th>
+        </tr>
+
+        <tbody id="myTable">
+            
+        </tbody>
+
+</table>
+</div>
+
+
+<script src="index.js"></script>
 
 </body>
+
 </html>
