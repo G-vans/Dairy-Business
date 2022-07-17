@@ -14,10 +14,38 @@
     <div class="hero-image">
         <div class="hero-text">
             <h1 style="font-size:50px">Mau Narok Dairy Farm</h1>
-            <button class="button"><a href="dashboard.html">Open Dashboard</a></button>
+            <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;" class="button">Login</button>
         </div>
     </div>
-
+<!--Modal log in-->
+    <div id="id01" class="modal">
+  
+        <form class="modal-content animate" action="#" method="post">
+          <div class="modalcontainer">
+            <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+            <h1>User Login</h1>
+          </div>
+      
+          <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" placeholder="Enter Username or leave blank" name="uname" required>
+      
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password or leave blank" name="psw" required>
+              
+            <button class="button" type="submit" onclick= location.href="dashboard.html">Login</button>
+            <label>
+              <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+          </div>
+      
+          <div class="container" style="background-color:#f1f1f1">
+            <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+          </div>
+        </form>
+      </div>
+      <script src="index.js"></script>
 </body>
 
 </html>
