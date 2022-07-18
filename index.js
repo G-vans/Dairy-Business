@@ -41,12 +41,4 @@ function buildTable(data) {
 let arr = ["Total Production: 3,100 Litres per day"];
     document.getElementById("arrPrint").innerHTML = arr;
 
-    //Sales
-    var sales = [3,100];
-    var scalar = 45;
-    
-    sales.forEach((value, index) => {
-        sales[index] *= scalar;
-    });
-    console.log(sales);
-    document.getElementById("arrSales").innerHTML = sales;
+   
