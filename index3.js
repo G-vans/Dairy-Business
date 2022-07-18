@@ -1,4 +1,4 @@
-//Sales- weekly
+//Sales- January
     
     
 var x = multiply(3100, 31, 45)
@@ -8,7 +8,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- monthly
+//Sales- february
    
    
 var x = multiply(3100, 28, 45)
@@ -18,7 +18,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- Yearly
+//Sales- march
    
    
 var x = multiply(3100, 31, 45)
@@ -27,7 +27,7 @@ function multiply(a, b, c)
 {
 return (a * b *c)
 }
-//Sales- weekly
+//Sales- april
     
     
 var x = multiply(3100, 30, 45)
@@ -37,7 +37,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- monthly
+//Sales- may
    
    
 var x = multiply(3100, 31, 45)
@@ -47,7 +47,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- Yearly
+//Sales- june
    
    
 var x = multiply(3100, 30, 45)
@@ -56,7 +56,7 @@ function multiply(a, b, c)
 {
 return (a * b *c)
 }
-//Sales- weekly
+//Sales- july
     
     
 var x = multiply(3100, 31, 45)
@@ -66,7 +66,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- monthly
+//Sales- august
    
    
 var x = multiply(3100, 31, 45)
@@ -76,7 +76,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- Yearly
+//Sales- september
    
    
 var x = multiply(3100, 30, 45)
@@ -85,7 +85,7 @@ function multiply(a, b, c)
 {
 return (a * b *c)
 }
-//Sales- weekly
+//Sales- october
     
     
 var x = multiply(3100, 31, 45)
@@ -95,7 +95,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- monthly
+//Sales- november
    
    
 var x = multiply(3100, 30, 45)
@@ -105,7 +105,7 @@ function multiply(a, b, c)
 return (a * b *c)
 }
 
-//Sales- Yearly
+//Sales- december
    
    
 var x = multiply(3100, 31, 45)
