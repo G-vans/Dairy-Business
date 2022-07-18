@@ -19,7 +19,7 @@
 ![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%201.png)
 
 ## Preview 02
-![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%202.png)
+![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot2.png)
 
 ## Preview 03
 ![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%203.png)
