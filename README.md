@@ -37,6 +37,8 @@
 
 * CSS - this was used to style the page 
 
+* JS - this was used to display the projections
+
 [Go Back to the top](#Dairy-Business)
 
 ## Licence
