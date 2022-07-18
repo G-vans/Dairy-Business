@@ -1,4 +1,4 @@
-# Agri_Plus_wk2
+# Dairy-Business
 
 ##### By Jevan Otieno 
 ### This is  a javascript program that displays projected income from milk production in the farm..
@@ -15,8 +15,14 @@
 ## Description
 <p>This is  a javascript program that displays projected income from milk production in the farm.</p>
 
-## Preview
-![Screenshot page](https://github.com/G-vans/Agri_Plus_wk2/blob/main/photos/Screenshot%20.png)
+## Preview 01
+![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%201.png)
+
+## Preview 02
+![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%202.png)
+
+## Preview 03
+![Screenshot page](https://github.com/G-vans/Dairy-Business/blob/main/photos/Screenshot%203.png)
 
 ## Access
 
